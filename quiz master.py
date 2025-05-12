@@ -1,11 +1,7 @@
 """
 ************************* NAVY CHILDREN SCHOOL *****************************
 ******************************* QUIZ MASTER ****************************
-*******  Designed and Maintained By :-
-*******  SAIKAT SAHA                      -  CLASS XII B  [ 2021-2022 ]
-*******  PRAVALLIKA KANDRELA      -  CLASS XII B  [ 2021-2022 ]
-*******  PARTIK PRATIHAR               -  CLASS XII B  [ 2021-2022 ]
-*******  DEEPAK KUMAR SINGH       -  CLASS XII B  [ 2021-2022 ]
+*******  Designed and Maintained By :-  SAIKAT SAHA            
 """
 
 import mysql.connector as mk
