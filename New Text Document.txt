@@ -1,0 +1,18 @@
+* - NOT DONE
+
+ask credentials (DONE)   
+1. config_reset 
+     ->ask credentials (DONE)
+     ->update  (DONE)
+     ->delete  (DONE)
+     ->insert  (DONE)
+     ->create db  (questions,participants,scores) (DONE)
+           ->new questions  (DONE)
+           ->default questions
+     ->display questions   (DONE)
+
+2. register (DONE)
+3. login (DONE)
+      -> quiz  (DONE)
+
+4. HOME (DONE)
